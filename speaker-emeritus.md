@@ -3,7 +3,7 @@
 ###  2015
 
 #### [January](http://www.meetup.com/San-Antonio-JavaScript-User-Group/events/219245780/)
- - [Taylor Smith](https://twitter.com/tsmith512): [Intro to Singularity](http://tsmith512.github.io/intro-to-singularity/)
+ - [Taylor Smith](https://twitter.com/tsmith512): Intro to Singularity
 
 
 ###  2014
@@ -27,36 +27,36 @@
 - Hack night
 
 #### [June](http://www.meetup.com/San-Antonio-JavaScript-User-Group/events/185727302/)
-- [Tim G. Thomas](): Test Your JavaScript... with the Help of D&D
+- [Tim G. Thomas](https://twitter.com/timgthomas): Test Your JavaScript... with the Help of D&D
 
 #### [May](http://www.meetup.com/San-Antonio-JavaScript-User-Group/events/177507572/)
-- [Mark DiMarco](): User Interface Algorithms
+- [Mark DiMarco](https://twitter.com/markmarkoh): User Interface Algorithms
 
 #### [April](http://www.meetup.com/San-Antonio-JavaScript-User-Group/events/170393212/)
-- [Chris Bateman](): The "new" keyword in JavaScript
-- [John Lozano](): Building a space-shooter game in JS
+- [Chris Bateman](https://twitter.com/batemanchris): The "new" keyword in JavaScript
+- John Lozano: Building a space-shooter game in JS
 
 #### [March](http://www.meetup.com/San-Antonio-JavaScript-User-Group/events/165465192/)
-- [Chris Cantu](): Becoming a Courageous Developer - When Smart is no longer Enough
+- [Chris Cantu](https://twitter.com/chriscantu): Becoming a Courageous Developer - When Smart is no longer Enough
 
 #### [February](http://www.meetup.com/San-Antonio-JavaScript-User-Group/events/141657182/)
-- [Chris Bateman](): Web Audio API + AngularJS
-- [Kevin Lamping](): Front-end Dev Ops
+- [Chris Bateman](https://twitter.com/batemanchris): Web Audio API + AngularJS
+- [Kevin Lamping](https://twitter.com/klamping): Front-end Dev Ops
 
 #### [January](http://www.meetup.com/San-Antonio-JavaScript-User-Group/events/141657042/)
-- [Kyle Simpson](): Asynquence
-- [Brandon Satrom](): Secrets of Awesome JavaScript API Design
+- [Kyle Simpson](https://twitter.com/getify): Asynquence
+- [Brandon Satrom](https://twitter.com/brandonsatrom): Secrets of Awesome JavaScript API Design
 
 
 ### 2013
 
 #### [November](http://www.meetup.com/San-Antonio-JavaScript-User-Group/events/143633872/)
-- [Chris Turner](): Introduction to AngularJS
-- [Kassandra Perch](): JavaScript All the Things!
+- [Chris Turner](https://twitter.com/cturner80): Introduction to AngularJS
+- [Kassandra Perch](https://twitter.com/nodebotanist): JavaScript All the Things!
 
 #### [Ocbtober](http://www.meetup.com/San-Antonio-JavaScript-User-Group/events/138732852/)
-- [Kyle Simpson](): New Rules for JS
+- [Kyle Simpson](https://twitter.com/getify): New Rules for JS
 
 #### [September](http://www.meetup.com/San-Antonio-JavaScript-User-Group/events/138680102/)
-- [Alex Sexton](): Abusing Preprocessor ASTs
+- [Alex Sexton](https://twitter.com/slexaxton): Abusing Preprocessor ASTs
 
