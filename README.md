@@ -7,3 +7,5 @@ These are all the great people who contribute to Hill Country JS, and how they c
 Just like any good open source project is kept alive by an army of contributors, Hill Country JS needs your help with all the little things. We're looking for contributors to take on small roles that they're interested.
 
 Look through the files for the various roles that help out the community. If you find a role you're interested in, submit a pull request that adds your name to the list. Don't worry if there's already a name listed; help is always welcome!
+
+If you think of a role but don't see a file for it, please don't hesitate to create a new one. The files are in no was a definitive list of what can and can't be done. 
