@@ -2,6 +2,9 @@
 
 ###  2015
 
+#### [February](http://www.meetup.com/San-Antonio-JavaScript-User-Group/events/219955674/)
+ - [Patrick Coffey](https://twitter.com/patrickocoffeyo): Meteor
+
 #### [January](http://www.meetup.com/San-Antonio-JavaScript-User-Group/events/219245780/)
  - [Taylor Smith](https://twitter.com/tsmith512): Intro to Singularity
 
@@ -18,7 +21,7 @@
 
 #### [September](http://www.meetup.com/San-Antonio-JavaScript-User-Group/events/197659022/)
 - [Chris Bateman](https://twitter.com/batemanchris): Intro. to React
-- [Jeffrey Biles](https://twitter.com/jeffreybiles): A Gentle Introduction to EMber
+- [Jeffrey Biles](https://twitter.com/jeffreybiles): A Gentle Introduction to Ember
 
 #### [August](http://www.meetup.com/San-Antonio-JavaScript-User-Group/events/195493872/)
 - [Micah Godbolt](https://twitter.com/micahgodbolt): Getting Your Styles in Line
