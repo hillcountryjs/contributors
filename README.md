@@ -1,5 +1,7 @@
 # Contributors
 
+[![Join the chat at https://gitter.im/hillcountryjs/contributors](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hillcountryjs/contributors?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 These are all the great people who contribute to Hill Country JS, and how they contribute. Anyone is welcome to add their name to the list!
 
 ## How this works
